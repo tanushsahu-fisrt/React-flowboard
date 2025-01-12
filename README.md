@@ -1,8 +1,20 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+live : https://flowboard-b0f9e.web.app/ 
 
-Currently, two official plugins are available:
+Kanban Web App - 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A feature-rich Kanban web application built with React.js, Firebase, and Material-UI v5, enabling drag-and-drop task management and state management with Zustand.
+
+Features :
+Task Management: Add, edit, and delete tasks in a visually organized Kanban board.
+Drag & Drop: Rearrange tasks across different columns effortlessly.
+Real-Time Updates: Synchronize changes using Firebase.
+Responsive Design: Optimized for all screen sizes using Material-UI v5.
+State Management: Efficiently handled with Zustand.
+Tech Stack :
+Frontend: React.js
+State Management: Zustand
+Drag-and-Drop: React-Beautiful-DnD or a similar library
+UI Components: Material-UI v5
+Backend: Firebase (Firestore, Authentication, Hosting)
