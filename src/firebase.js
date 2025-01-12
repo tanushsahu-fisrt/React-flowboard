@@ -4,12 +4,12 @@ import { getFirestore, connectFirestoreEmulator } from "firebase/firestore";
 import { getFunctions, connectFunctionsEmulator } from "firebase/functions";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAqBCaRrQiw1gFyWtZQyeMCBpue9jKgug4",
-  authDomain: "flowbroad.firebaseapp.com",
+  apiKey: "",
+  authDomain: "",
   projectId: "flowbroad",
-  storageBucket: "flowbroad.firebasestorage.app",
-  messagingSenderId: "830956851257",
-  appId: "1:830956851257:web:08d2522134f98516edfde8"
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 
