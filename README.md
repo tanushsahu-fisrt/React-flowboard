@@ -38,7 +38,13 @@
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="https://your-screenshot-url.com/kanban-board.png" alt="Kanban Screenshot" width="600"/>
+  <img src="https://res.cloudinary.com/db1qqq6ic/image/upload/v1752583839/Screenshot_2025-07-15_182000_kgow43.png" width="600"/>
+</p>
+<p align="center">
+  <img src="https://res.cloudinary.com/db1qqq6ic/image/upload/v1752583918/Screenshot_2025-07-15_182145_pgezyx.png" width="600"/>
+</p>
+<p align="center">
+  <img src="https://res.cloudinary.com/db1qqq6ic/image/upload/v1752584002/Screenshot_2025-07-15_182310_pgwfgi.png" width="600"/>
 </p>
 
 ---
